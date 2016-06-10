@@ -1,0 +1,6 @@
+java code came from dropwizard/metrics
+sml code came from chrisamaphone/interactive-lp
+c code came from firehol/netdata
+python code came from pallets/flask
+
+currently keeps 16 fields
