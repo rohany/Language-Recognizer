@@ -10,3 +10,4 @@ To use, run the trainer.py file in either scikit or handmade to train the neural
 
 Then run decider.py <file_name> to have the program decide!
 
+Dependencies - numpy, scikit-neuralnetwork. Both can be pip installed!
