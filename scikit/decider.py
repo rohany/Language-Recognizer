@@ -17,8 +17,6 @@ def decide():
 
 def main():
     res = decide()
-    res = res[0]
-    print(res)
     if res[0]==1:
         print "The code was C!"
     elif res[1]==1:
